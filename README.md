@@ -2,7 +2,7 @@
 O CLI Weather é uma ferramenta de linha de comando desenvolvida em Node.js que exibe a previsão do tempo diretamente no terminal, de forma simples, leve e elegante.
 
 ## Descrição
-O CLI Weather consome a API pública do OpenWeatherMap para obter dados meteorológicos em tempo real.
+O CLI Weather consome a API pública do OpenWeatherMap para obter dados meteorológicos em tempo real
 Com apenas um comando, é possível consultar a temperatura atual, máxima, mínima, umidade, vento e condições climáticas de qualquer cidade do mundo — tudo formatado com cores ANSI para uma experiência agradável no terminal.
 
 ## Funcionalidades Principais
